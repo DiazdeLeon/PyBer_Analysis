@@ -20,7 +20,7 @@
 
 <p align="justify"> This summary reflects an interesting principle of the taxi and/or driving business and as well as from the principle of the economy itself. 
 
-<p align="justify"> First all, it is well known that the taxi and/or business is more profitable when larger distances are travel, this principle is because of the behavior of the unit cost. When comparing operating yields or unit cost between routes one should always bear in mind how these values vary with distance performed. The unit costs drop quite rapidly with increasing stage length in the short-/medium-haul range, whereas it has a very gentle decrease with increasing stage length in the long-haul range. The operating yield curve behaves in the same manner. 
+<p align="justify"> First all, it is well known that the taxi and/or business is more profitable when larger distances are performed this principle is because of the behavior of the unit cost. When comparing operating yields or unit cost between routes one should always bear in mind how these values vary with distance performed. The unit costs drop quite rapidly with increasing stage length in the short-/medium-haul range, whereas it has a very gentle decrease with increasing stage length in the long-haul range. The operating yield curve behaves in the same manner. 
 
 <p align="justify"> However, after the analysis of the average fare per ride and driver it seems to be that PyBer business does not follow the principle of a regular taxi or driving business.  Seems to be that PyBer business follows the principle of the demand law, that says:
     
