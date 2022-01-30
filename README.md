@@ -16,7 +16,7 @@
 
 -	Total fares, in terms of total revenues collected from the service. The 63% ($39,854) come from urban areas, 30% ($19,356) and 7% ($4,328) from rural areas. 
 
--	Average fare per ride and driver, the lowest average fare per ride is in urban areas $24.53 per ride, followed by suburban areas $30.97 per ride and $34.62 per ride. The same trend is observed in the average fare per driver; the lowest is performed by urban areas $16.57, followed by suburban areas $39.50 and the highest is rural areas $55.49. 
+-	Average fare per ride and driver, the lowest average fare per ride is in urban areas $24.53 per ride, followed by suburban areas $30.97 per ride and rural areas $34.62 per ride. The same trend is observed in the average fare per driver; the lowest is performed by urban areas $16.57, followed by suburban areas $39.50 and the highest is rural areas $55.49. 
 
 <p align="justify"> This summary reflects an interesting principle of the taxi and/or driving business and as well as from the principle of the economy itself. 
 
