@@ -1,6 +1,6 @@
 # 1.	Overview of the analysis for PyBer company
 
-<p align="justify"> The purpose of the analysis is determinate how the data differs by city type and how those differences can be used by decision-makers at the company (PyBer). First, it will be presented a summary DataFrame of the ride-sharing data by city type; afterwards the results will be presented in a multiple-line graph that shows the total weekly fares for each city type.
+<p align="justify"> The purpose of the analysis is to determinate how the data differs by city type and how those differences can be used by decision-makers at the company (PyBer). First, it will be presented a summary DataFrame of the ride-sharing data by city type; afterwards the results will be presented in a multiple-line graph that shows the total weekly fares for each city type.
 
 # 2.	Results
 
