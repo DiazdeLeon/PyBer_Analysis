@@ -1,8 +1,8 @@
-#1.	Overview of the analysis for P{yBer company
+# 1.	Overview of the analysis for PyBer company
 
 The purpose of the analysis is determinate how the data differs by city type and how those differences can be used by decision-makers at the company (PyBer). First, it will be presented a summary DataFrame of the ride-sharing data by city type; afterwards the results will be presented in a multiple-line graph that shows the total weekly fares for each city type.
 
-#2.	Results
+# 2.	Results
 
 As the first step in the process, it was necessary to merge two datasets known as, city data and ride data. This step allows to have full perspective of the data information and facilitates to create summaries. As the common variable among the datasets is city, it was decided to merge both datasets base on that variable as follows:
 
@@ -34,7 +34,7 @@ Finally, the multiple line plot that shows the total weekly of the fares for eac
 
 The graph reinforces the beforemention statement where the collection of fares in urban areas is significantly higher than in suburban and rural areas.
 
-#3.	Summary
+# 3.	Summary
 
 After the analysis it is possible to make three suggestions to the CEO. 
 
