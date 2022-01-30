@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/95872614/151715825-1b53736e-7616-42c5-a8db-65ab6526b015.png)
 
--	Total rides and drivers, 68% (1,625 rides) per cent of the total rides are performed in urban areas, followed by suburban with 26% (625) and rural areas with 5% (125). It is possible to say that the demand for this service is mainly in cities. The total drivers performed in the same trend, 81% (2,405) are in urban areas, 16% (490) in suburban areas and 3% (78) in rural areas. 
+-	Total rides and drivers, 68% (1,625 rides) per cent of the total rides are performed in urban areas, followed by suburban with 26% (625) and rural areas with 5% (125). It is possible to say that the demand for this service is mainly in big cities. The total drivers performed in the same trend, 81% (2,405) are in urban areas, 16% (490) in suburban areas and 3% (78) in rural areas. 
 
 -	Total fares, in terms of total revenues collected from the service. The 63% ($39,854) come from urban areas, 30% ($19,356) and 7% ($4,328) from rural areas. 
 
