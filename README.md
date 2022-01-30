@@ -23,8 +23,8 @@
 <p align="justify"> First all, it is well known that the taxi and/or business is more profitable when larger distances are travel, this principle is because of the behavior of the unit cost. When comparing operating yields or unit cost between routes one should always bear in mind how these values vary with distance performed. The unit costs drop quite rapidly with increasing stage length in the short-/medium-haul range, whereas it has a very gentle decrease with increasing stage length in the long-haul range. The operating yield curve behaves in the same manner. 
 
 <p align="justify"> However, after the analysis of the average fare per ride and driver it seems to be that PyBer business does not follow the principle of a regular taxi or driving business.  Seems to be that PyBer business follows the principle of the demand law, that says:
-
-     ***“The law of demand states that the quantity purchased varies inversely with price. In other words, the higher the price, the lower the quantity demanded”.***
+    
+***“The law of demand states that the quantity purchased varies inversely with price. In other words, the higher the price, the lower the quantity demanded”.***
 
 <p align="justify"> This statement is clearly reflected in the behavior of the average fare per ride and per driver. PyBer services are more demanded in the urban areas, therefore the average fares are significantly lower that the ones in rural areas where the demand of PyBer services is less. This makes sense due to, in urban areas the population density is higher than in suburban and rural areas, as well as it is possible to think that urban areas have more options to transportation than suburban and rural areas, therefore PyBer needs to be more competitive providing better fares per kilometer performed. 
 
