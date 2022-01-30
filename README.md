@@ -24,7 +24,7 @@
 
 <p align="justify"> However, after the analysis of the average fare per ride and driver it seems to be that PyBer business does not follow the principle of a regular taxi or driving business.  Seems to be that PyBer business follows the principle of the demand law, that says:
 
-***“The law of demand states that the quantity purchased varies inversely with price. In other words, the higher the price, the lower the quantity demanded”.***
+<p align="center">***“The law of demand states that the quantity purchased varies inversely with price. In other words, the higher the price, the lower the quantity demanded”.***
 
 <p align="justify"> This statement is clearly reflected in the behavior of the average fare per ride and per driver. PyBer services are more demanded in the urban areas, therefore the average fares are significantly lower that the ones in rural areas where the demand of PyBer services is less. This makes sense due to, in urban areas the population density is higher than in suburban and rural areas, as well as it is possible to think that urban areas have more options to transportation than suburban and rural areas, therefore PyBer needs to be more competitive providing better fares per kilometer performed. 
 
